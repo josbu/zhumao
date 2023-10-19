@@ -32,4 +32,3 @@ wget -N --no-check-certificate https://fly-uni.com/onekey/zhumao.sh && chmod 700
 - (0) 更新脚本
 - (t) 退出脚本
 - (10) 卸载脚本
-
